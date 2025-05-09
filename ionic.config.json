@@ -1,0 +1,7 @@
+{
+  "name": "mi-platapp-ngmodules",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
